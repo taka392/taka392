@@ -1,6 +1,4 @@
-# Backend Developer in Japan👋
-### Just 20 years old 
-### Feel free to contact me anytime!👍
+
 #
 ![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=taka392&show_icons=true&theme=vue-dark)
 
@@ -8,25 +6,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=taka392&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-
 # NOW TRAINING
-
-<p align="left">
-<a href="https://twitter.com/[Foo]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
-<a href="[Foo_email]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[Foo_email]"/></a>
-</p>
-
-
-
-# My Skill (Programming Languages, Frameworks and Tools)
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,rails,ruby" /> <br /><br />
-  
-# NOW TRAINING
-
-<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
-
-
 <!-- --------------------------------- :) ---------------------------------- -->
 
 <br><br><br>
