@@ -20,7 +20,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=rails,dart" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=flutter,dart,rails,ruby" /> <br /><br />
   
 # NOW TRAINING
 
