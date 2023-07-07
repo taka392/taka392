@@ -9,7 +9,6 @@
 # NOW TRAINING
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,rails,ruby" /> <br /><br />
-<!-- --------------------------------- :) ---------------------------------- -->
 
 <br><br><br>
 
